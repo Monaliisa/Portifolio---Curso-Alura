@@ -3,11 +3,12 @@
     padding: 0;
 }
 body {
+    height: 100vh;
+    box-sizing: border-box;
     background-color: #000;
     color: #f6f6f6;
 }
 
 .titulo-destaque{
     color:#22d4fd;
-
 }
