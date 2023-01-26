@@ -48,6 +48,7 @@ body {
     border-radius: 16px;
     font-size: 24px;
     padding: 21.5px 0;
-    color: #000;
+    text-decoration: none;
+    color: #000;    
     font-family: 'Montserrat', sans-serif;
 }
